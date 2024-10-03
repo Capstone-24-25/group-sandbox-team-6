@@ -1,0 +1,11 @@
+---
+title: "About Me"
+author: "Jade O'Brien"
+date: "2024-10-03"
+output: html_document
+---
+## About Me
+
+Hello my name is Jade.
+
+Where are you from?
