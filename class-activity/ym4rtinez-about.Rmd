@@ -1,2 +1,14 @@
-# about me
-i like tea
+
+---
+title: "ym4rtinez-about"
+author: "Yamileth Martinez"
+date: "2024-10-03"
+output: html_document
+---
+
+## About Me
+
+I like cats and tea.
+
+What is your favorite color?
+
