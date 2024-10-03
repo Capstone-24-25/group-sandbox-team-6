@@ -8,3 +8,5 @@ output: html_document
 ## About Me
 
 I like cats and tea.
+
+What is your favorite color?
