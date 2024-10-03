@@ -6,5 +6,7 @@ template repo for class activity on git and github in pstat197a
 updated october 2024
 
 Jade O'Brien
+
 Ivy Li
+
 Yamileth Martinez
