@@ -7,3 +7,5 @@ output: html_document
 ## About Me
 
 Hello my name is Jade.
+
+Where are you from?
