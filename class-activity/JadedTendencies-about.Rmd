@@ -9,3 +9,5 @@ output: html_document
 Hello my name is Jade.
 
 Where are you from?
+
+What's your favorite food?
